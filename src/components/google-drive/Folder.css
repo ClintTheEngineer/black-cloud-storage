@@ -1,0 +1,29 @@
+#none {
+    width: 100px;
+    color: black;
+    border-color: black;
+    background-color: rgb(46, 41, 41);
+}
+
+#none:hover {
+    background-color: rgba(112, 112, 112, 0.722);
+}
+
+p {
+    font-weight: 600;
+}
+
+.none {
+    color: black;
+}
+
+#wow {
+    color: black;
+    border-color: black;
+    background-color: rgb(46, 41, 41);
+}
+
+#wow:hover {
+    background-color: rgba(112, 112, 112, 0.722);
+}
+
